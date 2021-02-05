@@ -6,7 +6,7 @@ spring.jpa.hibernate.ddl-auto: update
 
 spring.datasource:
   url: jdbc:mysql://localhost:3306/employeedb
-  username: sa
+  username: root
   password: sa
 
 spring.datasource.hikari.initializationFailTimeout: 60000

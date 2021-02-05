@@ -26,7 +26,7 @@ public class EmployeeController {
 
 	@GetMapping("/mensagem")
 	public String testMensagem() {
-		return "Vamos retornar uma mensagem quando a gente acessar esse cara via browser.";
+		return "Teste mensagem!";
 	}
 
 	/*
